@@ -1,8 +1,6 @@
 # Fields Cybersecurity Services, LLC 🛡️
 
-Defensive cybersecurity engineering: Windows hardening baselines, detection content for Sentinel and Splunk, and free read-only tools for defenders.
-
-Consultation and contact: [clickfix.com](https://clickfix.com)
+Defensive cybersecurity engineering: Windows hardening baselines, Sentinel and Splunk detection content, and free read-only tools at [ClickFix.com](https://clickfix.com).
 
 ---
 
