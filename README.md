@@ -22,4 +22,4 @@ Software engineering and intellectual property incubator delivering automated en
 
 ---
 
-*CLICKFIX℠ is a service mark of Grover Fields, used under license by Fields Cybersecurity Services, LLC. All rights reserved. Fields Cybersecurity Services, LLC and the CLICKFIX℠ brand provide defensive cybersecurity consultation, education, and advisory services and are not affiliated with, endorsed by, or associated with the "ClickFix" social-engineering cyberattack technique or related malware campaigns.*
+*ClickFix refers to a social engineering attack technique (MITRE ATT&CK®T1204.004). CLICKFIX℠ is a service mark of Grover Fields, used under license by Fields Cybersecurity Services, LLC (ClickFix.com), established 2001 and unrelated to this attack technique. All rights reserved. Fields Cybersecurity Services, LLC provides defensive cybersecurity consultation, education and advisory services, and is not affiliated with, endorsed by or associated with any malware campaign that uses the name.*
