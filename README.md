@@ -30,10 +30,12 @@ Code in these repositories is MIT licensed unless a repository says otherwise.
 
 ## Notice
 
-*ClickFix refers to a social engineering attack technique (MITRE ATT&CK® T1204.004). CLICKFIX℠ is a service mark of Grover Fields, used under license by Fields Cybersecurity Services, LLC (ClickFix.com), established 2001 and unrelated to this attack technique. All rights reserved. Fields Cybersecurity Services, LLC provides defensive cybersecurity consultation, education and advisory services, and is not affiliated with, endorsed by or associated with any malware campaign that uses the name.*
+ClickFix refers to a social engineering attack technique (MITRE ATT&CK® T1204.004). CLICKFIX℠ is a service mark of Grover Fields, used under license by Fields Cybersecurity Services, LLC (ClickFix.com), established 2001 and unrelated to this attack technique. All rights reserved. Fields Cybersecurity Services, LLC provides defensive cybersecurity consultation, education and advisory services and has no connection with any malware campaign, threat actor or product that uses the name.
 
 ## Trademarks
 
-MITRE ATT&CK® is a registered trademark of The MITRE Corporation. This organisation uses the ATT&CK identifier to describe the techniques it works with and is not affiliated with, endorsed by or sponsored by MITRE.
+The CLICKFIX℠ name and any related logos are identified in the Notice above. The MIT License that covers this software does not grant any right to use them. Modified or redistributed versions of this software must not use the CLICKFIX℠ name or branding in a way that causes confusion or suggests they are published, endorsed or sponsored by Grover Fields or Fields Cybersecurity Services, LLC.
 
-Windows, PowerShell, Microsoft Sentinel and Splunk are the property of their respective owners and are named only to describe what the firm works with. This organisation is not affiliated with them.
+MITRE ATT&CK® is a registered trademark of The MITRE Corporation. This project uses the ATT&CK identifier to describe the technique it assesses, and is not affiliated with, endorsed by or sponsored by MITRE.
+
+Windows, PowerShell, Microsoft Defender, Chrome, Edge, Firefox and other third-party names are the property of their respective owners and are used only to describe what the script checks. This project is not affiliated with them.
