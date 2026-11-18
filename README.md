@@ -24,6 +24,10 @@ Code in these repositories is MIT licensed unless a repository says otherwise.
 
 ---
 
+## The story behind CLICKFIX℠
+
+[Read my account of CLICKFIX℠’s 2001 origin and the later naming collision.](https://clickfix.com/blog/2026/11/16/i-named-clickfix-in-2001)
+
 ## Notice
 
 *ClickFix refers to a social engineering attack technique (MITRE ATT&CK® T1204.004). CLICKFIX℠ is a service mark of Grover Fields, used under license by Fields Cybersecurity Services, LLC (ClickFix.com), established 2001 and unrelated to this attack technique. All rights reserved. Fields Cybersecurity Services, LLC provides defensive cybersecurity consultation, education and advisory services, and is not affiliated with, endorsed by or associated with any malware campaign that uses the name.*
